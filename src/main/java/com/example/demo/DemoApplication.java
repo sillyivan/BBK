@@ -19,7 +19,7 @@ public class DemoApplication {
     public static Map<String,Object> map1= Maps.newHashMap();
 
     public static void main(String[] args) throws ScriptException {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(DemoApplication.class, args);
 
     }
 
