@@ -31,7 +31,7 @@ public class UserController {
         for (int i = 0; i <10; i++) {
             User user = new User();
             user.id=i;
-            user.address="广州9999";
+            user.address="广州2";
             user.age="158";
             user.name="ivan"+i;
             userList.add(user);
