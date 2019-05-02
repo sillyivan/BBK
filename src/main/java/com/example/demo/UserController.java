@@ -32,7 +32,7 @@ public class UserController {
             User user = new User();
             user.id=i;
             user.address="广州";
-            user.age="18";
+            user.age="158";
             user.name="ivan"+i;
             userList.add(user);
         }
