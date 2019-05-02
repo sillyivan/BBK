@@ -19,7 +19,7 @@ public class UserController {
         user.id=id;
         user.address="广州1xxx996";
         user.age="18";
-        user.name="ivan";
+        user.name="ivan77";
 
         model.addAttribute("user",user);
         return "/user/detail";
