@@ -17,7 +17,7 @@ public class UserController {
 
         User user = new User();
         user.id=id;
-        user.address="广州3";
+        user.address="广州8";
         user.age="18";
         user.name="ivan";
 
